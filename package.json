@@ -1,0 +1,12 @@
+{
+  "name": "duffel-cms",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x.x",
+    "nunjucks": "0.1.x",
+    "DOMBuilder": "2.1.x",
+    "node.extend": "1.0.x",
+    "node-uuid": "1.4.x"
+  }
+}
