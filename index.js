@@ -1,8 +1,8 @@
-var cmsblock = require('./lib/nunjucks-tags/cmsblock'),
-  cmstag = require('./lib/nunjucks-tags/cmstag');
-
 var express = require('express'),
   nunjucks = require('nunjucks');
+
+var cmsblock = require('./lib/nunjucks-tags/cmsblock'),
+  cmstag = require('./lib/nunjucks-tags/cmstag');
 
 module.exports = {
   initialise: function(app) {
