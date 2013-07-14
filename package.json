@@ -1,5 +1,13 @@
 {
   "name": "duffel-cms",
+  "author": "Michael Robinso <mike@pagesofinterest.net>",
+  "description": "Enables one to embed editible regions within nunjucks templates",
+  "contributors": [
+    {
+    "name": "Michael Robinson",
+    "email": "mike@pagesofinterest.net"
+  }
+  ],
   "version": "0.0.1",
   "private": true,
   "dependencies": {
