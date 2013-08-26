@@ -13,9 +13,10 @@ raptor(function($) {
         url: '/cms/admin/content/',
         data: function(html) {
           return {
-            id: this.raptor.getElement().data('name'),
+            name: this.raptor.getElement().data('name'),
             _csrf: this.raptor.getElement().data('csrf'),
-            content: html
+            type: this.raptor.getElement().data('type'),
+            html: html
           };
         }
       }
