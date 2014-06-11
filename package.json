@@ -14,10 +14,10 @@
     "url": "https://github.com/BrownPaperBag/duffel-cms"
   },
   "dependencies": {
-    "express": "3.3.x",
-    "nunjucks": "git://github.com/jlongster/nunjucks.git#master",
-    "DOMBuilder": "2.1.x",
-    "node.extend": "1.0.x",
-    "node-uuid": "1.4.x"
+    "express": "",
+    "nunjucks": "",
+    "DOMBuilder": "",
+    "node.extend": "",
+    "node-uuid": ""
   }
 }
