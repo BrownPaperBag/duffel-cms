@@ -14,10 +14,9 @@
     "url": "https://github.com/BrownPaperBag/duffel-cms"
   },
   "dependencies": {
-    "express": "",
-    "nunjucks": "",
     "DOMBuilder": "",
     "node.extend": "",
-    "node-uuid": ""
+    "node-uuid": "",
+    "mongoose-times": ""
   }
 }
