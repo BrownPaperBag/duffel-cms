@@ -1,6 +1,6 @@
 module.exports = {
   initialise: require('./lib/initialise'),
-  CMSBlock: function() {
+  CMSContent: function() {
     return require('./lib/models/CMSContent').model();
   },
   CMSRequest: function() {
