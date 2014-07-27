@@ -17,6 +17,7 @@
     "DOMBuilder": "",
     "node.extend": "",
     "node-uuid": "",
-    "mongoose-times": ""
+    "controller-loader": "latest",
+    "bluebird": "latest"
   }
 }
