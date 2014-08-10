@@ -14,9 +14,9 @@
     "url": "https://github.com/BrownPaperBag/duffel-cms"
   },
   "dependencies": {
-    "DOMBuilder": "",
-    "node.extend": "",
-    "node-uuid": "",
+    "DOMBuilder": "latest",
+    "node.extend": "latest",
+    "node-uuid": "latest",
     "controller-loader": "latest",
     "bluebird": "latest"
   }
